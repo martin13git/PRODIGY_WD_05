@@ -10,6 +10,7 @@ Explore current weather conditions and get location suggestions with this simple
 
 ## Usage
 
+Check out the website [here](https://martin13git.github.io/PRODIGY_WD_05/).
 1. Enter a location in the input field.
 2. Select from the suggested locations.
 3. Click "Get Weather" to fetch and display current weather information.
